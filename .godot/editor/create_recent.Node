@@ -1,0 +1,17 @@
+Node2D
+Label
+VBoxContainer
+PanelContainer
+HBoxContainer
+MarginContainer
+CanvasLayer
+Node
+ProgressBar
+CollisionShape2D
+Area2D
+Sprite2D
+Timer
+AnimationPlayer
+CharacterBody2D
+Camera2D
+TileMap
